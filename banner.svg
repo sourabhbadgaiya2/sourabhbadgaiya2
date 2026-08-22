@@ -1,0 +1,27 @@
+<svg width="100%" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg" role="img"><title>GitHub profile banner</title><desc>Dark banner with a wireframe torus knot motif, particle dots, and the name Sourabh Badgaiya with a software engineer tagline</desc>
+<defs>
+<linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#181830"/>
+<stop offset="100%" stop-color="#0c0c1a"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="680" height="220" rx="14" fill="url(#bgGrad)"/>
+<g opacity="0.55" stroke="#7F77DD" stroke-width="0.6" fill="none">
+<path d="M520 60 C 560 40, 600 60, 600 110 C 600 160, 560 180, 520 160 C 480 140, 480 80, 520 60 Z"/>
+<path d="M520 60 C 480 80, 470 130, 510 155 C 550 180, 605 165, 610 115 C 615 65, 565 35, 520 60 Z"/>
+<ellipse cx="558" cy="110" rx="70" ry="28" transform="rotate(20 558 110)"/>
+<ellipse cx="558" cy="110" rx="70" ry="28" transform="rotate(80 558 110)"/>
+<ellipse cx="558" cy="110" rx="70" ry="28" transform="rotate(140 558 110)"/>
+</g>
+<circle cx="470" cy="50" r="2" fill="#D4537E"/>
+<circle cx="500" cy="175" r="2.4" fill="#1D9E75"/>
+<circle cx="620" cy="70" r="1.8" fill="#F0997B"/>
+<circle cx="640" cy="150" r="2" fill="#7F77DD"/>
+<circle cx="450" cy="120" r="1.6" fill="#5DCAA5"/>
+<circle cx="610" cy="190" r="1.6" fill="#D85A30"/>
+<text x="48" y="98" font-family="monospace" font-size="15" fill="#7F77DD">&lt;/&gt;</text>
+<text x="48" y="128" font-size="30" font-weight="500" fill="#F1EFE8">Sourabh Badgaiya</text>
+<text x="48" y="156" font-size="15" fill="#B4B2A9">Software Engineer · Full Stack Developer</text>
+<line x1="48" y1="170" x2="330" y2="170" stroke="#444441" stroke-width="1"/>
+<text x="48" y="190" font-size="12" fill="#888780">React.js · Next.js · Django REST Framework · Node.js</text>
+</svg>
